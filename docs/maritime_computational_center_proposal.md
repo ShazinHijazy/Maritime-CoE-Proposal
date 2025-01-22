@@ -90,7 +90,8 @@ Propose strategies for bridging these gaps.
 **Regulatory Environment**
 
 Analyze maritime laws concerning national security, environmental protection, and sensitive data handling.
-Tech Stack and Tools
+
+**Tech Stack and Tools**
 
 **Data Collection and Manipulation**
 
