@@ -28,7 +28,7 @@ Conduct research on global centers of excellence and maritime computational tech
 Organize and analyze operational aspects of maritime computational systems.
 Assist in compiling research data and contribute to proposal writing.
 
-**Mohkshagna Namburu**
+**Mohksa Namburu**
 
 Role: **Research Lead**
 
