@@ -1,0 +1,75 @@
+Collect Data on Current Maritime Technology Trends.
+Focus on autonomous ships, shipbuilding advancements, and maritime computational tools.
+OUTPUT- A dataset containing trends and advancements in maritime technologies.
+	advanced navigation systems, 
+AI-driven solutions for optimizing operations
+development of green shipping technologies to reduce fuel consumption and environmental impact
+Robotics
+blockchain and the Internet of Things, are transforming maritime management
+vessel-shore connectivity, optimizing fuel usage, and enhancing cybersecurity
+with AI-driven systems managing vessel movements without human intervention
+3D printing
+Machine learning and big data
+exploring autonomous vessels and drones to increase safety and reduce costs
+
+
+
+
+
+
+
+
+
+
+
+
+Current maritime technologies trends are technologies that are being used to improve the efficiency, safety, and sustainability of the maritime industry. 
+Recent trends in maritime technologies focus on enhancing efficiency, sustainability, and safety. Innovations include
+	advanced navigation systems, 
+	AI-driven solutions for optimizing operations (Bulat & Cojocaru, 2024), 
+ explores these innovations in great detail, looking at how they are redefining the way ships move, how port operations are managed and how environmental issues are handled.
+the maritime industry is adapting to the demands and challenges of the modern world.
+In addition to the Intelligent Routing Engine, the partnership has generated other significant results: 
+ Development of advanced marine weather forecasting systems 
+ Optimising port operations 
+Improving navigation safety 
+ Reducing greenhouse gas emissions
+ and the development of green shipping technologies to reduce fuel consumption and environmental impact (Tadros et al., 2023).
+ Robotics plays a crucial role in various maritime applications, such as underwater exploration and vessel maintenance, though challenges in safety and regulation persist (Sahoo et al., 2024). 
+Robotics has emerged as a disruptive force in the maritime sector, offering promising solutions for various applications, including underwater exploration, offshore operations, port logistics, and vessel maintenance
+various innovative applications of robotics, such as autonomous underwater vehicles (AUVs) for oceanographic research and inspection robots for offshore structures, discussing their capabilities and potential benefits
+robotics application in maritime technology
+• Autonomous Underwater Vehicles (AUVs): AUVs are robotic vehicles capable of navigating autonomously underwater. They are extensively used for oceanographic research, underwater mapping, environmental monitoring, and data collection in marine ecosystems [4].
+ • Remotely Operated Vehicles (ROVs): ROVs are robotic systems controlled by human operators from the surface. They are used for a wide range of tasks, including underwater inspections, repairs, and maintenance of offshore structures, pipelines, and underwater equipment [5].
+ • Unmanned Surface Vehicles (USVs): USVs are robotic vessels that operate on the water surface without a crew on board. They are utilized for various applications, such as hydrographic surveys, environmental monitoring, and security patrols [6]. 
+• Autonomous Ship Technology: Robotics plays a key role in the development of autonomous ships. These ships utilize advanced sensing, navigation, and control systems to operate without human intervention, leading to enhanced safety, optimized fuel consumption, and improved efficiency in maritime transportation [7]. 
+• Port Automation: Robotic systems are increasingly employed in ports and terminals for automated cargo handling, container stacking, and logistics operations. Automated guided vehicles (AGVs) and robotic cranes improve efficiency, reduce errors, and minimize labor requirements [8]. 
+• Underwater Inspection and Maintenance: Robotics facilitates the inspection and maintenance of underwater structures, such as oil rigs, wind farms, and underwater pipelines. Remotely operated robots equipped with cameras, sensors, and manipulation tools can perform inspections, cleaning, and repairs, reducing the need for human divers and improving safety [9]. 
+• Marine Robotics Research: Robotics serves as a crucial tool for researchers in marine sciences, enabling them to explore and study marine ecosystems, conduct geological surveys, collect samples, and monitor underwater habitats. It aids in understanding and protecting marine biodiversity and resources [10]. 
+• Environmental Monitoring and Pollution Control: Robotic systems are employed for environmental monitoring in marine environments, including the detection and tracking of marine pollution, oil spills, and harmful algal blooms. They enable prompt responses and effective mitigation strategies [11]. 
+• Search and Rescue Operations: Robotics assists in search and rescue operations at sea, utilizing autonomous or remotely operated vehicles equipped with sensors and cameras to locate and rescue people in distress or retrieve objects in challenging maritime conditions [12]. 
+ Maersk: Maersk, one of the world's largest shipping companies, has been using robots for a variety of tasks, including hull cleaning, cargo inspection, and firefighting. Including: 
+• Unloading containers: Maersk has been using robots to unload containers from ships and trucks. These robots are able to move boxes quickly and efficiently, which helps to reduce the time it takes to unload a ship or truck. 
+• Sorting and picking: Maersk has also been using robots to sort and pick products in its warehouses. These robots are able to read barcodes and sort products quickly and accurately. They can also pick products from high shelves, which helps to improve warehouse efficiency. 
+• Packing and loading: Maersk has also been using robots to pack and load products onto ships and trucks. These robots are able to pack products quickly and efficiently, which helps to reduce the time it takes to load a ship or truck. Maersk is also testing the use of robots for other tasks, such as: 
+• Inspecting containers: Maersk is testing the use of robots to inspect containers for damage.
+These robots are able to use cameras to scan the exterior of containers for any damage.
+• Moving cargo within a port: Maersk is also testing the use of robots to move cargo within a port. These robots are able to move cargo quickly and efficiently, which helps to improve port efficiency. ii. HMM: HMM, a South Korean shipping company, has been using robots to clean the hulls of its ships. The company has found that robots can reduce the time it takes to clean a ship by up to 80%, and they can also reduce the amount of chemicals that are used. Here are some specific examples of how HMM is using robots:
+• In 2020, HMM began using robots to unload containers at its Busan terminal. These robots are able to move containers weighing up to 40 tons, which helps to reduce the need for manual labor. • In 2021, HMM began using robots to sort and pick products in its warehouses. These robots are able to read barcodes and sort products quickly and accurately. They can also pick products from high shelves, which helps to improve warehouse efficiency. • In 2022, HMM began using robots to pack and load products onto ships and trucks.
+These robots are able to pack products quickly and efficiently, which helps to reduce the time it takes to load a ship or truck. iii. Siemens: Siemens, a German technology company, has been developing robots for the maritime industry for over 20 years. The company has developed robots for a variety of tasks, including welding, painting, and loading and unloading cargo. The company's robots are used in a variety of applications, including:
+• Shipbuilding: Siemens robots are used to automate welding, painting, and other tasks in shipbuilding. This helps to improve productivity and quality, and it also reduces the risk of accidents. • Offshore oil and gas: Siemens robots are used to inspect and repair offshore oil and gas platforms. This helps to improve safety and reliability, and it also reduces the cost of maintenance. • Port operations: Siemens robots are used to load and unload cargo ships, and they are also used to clean and maintain port facilities. This helps to improve efficiency and productivity, and it also reduces the risk of accidents. These are just a few examples of the many ways that robots are being used in the maritime industry. As technology continues to develop, we can expect to see even more robots being used in this important industry.
+
+Digital technologies, particularly blockchain and the Internet of Things, are transforming maritime management by improving vessel-shore connectivity, optimizing fuel usage, and enhancing cybersecurity (Korniyenko, 2023). 
+The industry is also exploring autonomous vessels and drones to increase safety and reduce costs (Korniyenko, 2023).
+ These advancements aim to address current challenges in the maritime sector, including sustainability requirements, operational efficiency, and the need for improved safety measures in an increasingly complex global shipping environment.
+
+Recent trends in maritime technologies focus on autonomous ships, shipbuilding advancements, and computational tools. are being used to improve the efficiency, safety, and sustainability of the maritime industry. 
+ 
+ Autonomous ships are evolving rapidly, with AI-driven systems managing vessel movements without human intervention (Cheng, 2023). 
+This technology promises increased efficiency and safety while reducing human exposure to hazardous tasks (Koikas et al., 2019). 
+Shipbuilding advancements include the integration of 3D printing for spare parts and accessories, enhancing cost-effectiveness and reducing downtime during repairs and refits (Jha, 2016). 
+Maritime computational tools are increasingly utilized for simulating environments, predicting emissions, and optimizing ship performance (Chaichana, 2023).
+ Machine learning and big data analytics are being employed to implement AI strategies in maritime operations (Chaichana, 2023). 
+These technological developments are reshaping the maritime industry, with implications for ship design, environmental management, and transportation efficiency (Koikas et al., 2019; Jha, 2016; Chaichana, 2023).
+
+https://elicit.com/notebook/24de9cd9-8a64-4655-b35e-44da346d31dc#181cfca5499c9036d9490ccbb5a3c9f1
